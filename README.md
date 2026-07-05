@@ -27,6 +27,14 @@
 
 ---
 
+<img width="1794" height="1069" alt="Снимок экрана 2026-07-05 184636" src="https://github.com/user-attachments/assets/8066df8a-a08f-467d-b2f7-5692710ce413" />
+
+---
+
+<img width="1389" height="1036" alt="Снимок экрана 2026-07-05 184609" src="https://github.com/user-attachments/assets/862b7f52-32d5-432e-893a-45567295e9ce" />
+
+---
+
 ## 🛠 Технологии
 
 - **Python 3.11+**
